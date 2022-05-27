@@ -11,6 +11,8 @@ Cursor: [Oreo Cursors](https://www.pling.com/p/1360254) (purple non-spark)
 
 Menu: Dmenu
 
+bar: polybar
+
 Konsole Appearance theme: [Aritim-Dark](https://www.pling.com/p/1283010)
 
 background: [leaves](https://jooinn.com/images/leaves-113.jpg)
